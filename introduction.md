@@ -1,4 +1,4 @@
-As you may already know, my name is Ajay Jayswal and I have been in the IT industry for 11 years.
+As you may, already know, my name is Ajay Jayswal and I have been in the IT industry for 11 years.
 
 Throughout my 11 years of experience, I have worked on engineering positions on Linux, Build and Release, Devops and AWS.
 
