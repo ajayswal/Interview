@@ -21,3 +21,5 @@ I also have experience with creating scripted or declarative  CI-CD pipeline‚Å†‚
 My core areas of expertise,  i would say would be that  I am an expert in using Jenkins for continuous integration, hands on the Chef for the configuration management and have good exposure on Kubernetes for the container orchestration.
 
 In the past, I have used Docker Swarm and Mesos environment as well as a CLustering and Orchestration tool for the microservices.
+
+So my current role in this lawsuit is I'm managing Kubernetes as orchestration tool, Chef as a configuration management tool. And I'm using Jenkins as a continuous integration tool. Well,
