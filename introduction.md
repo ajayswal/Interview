@@ -8,7 +8,7 @@ On my team, we currently have 12 people that are part of the Devops and Cloud  T
 
 Most of the apps I support are in AWS using RHEL 7 and RHEL 8 (Red Hat enterprise Linux)
 
- As you probably have taken a look at my resume, I have a really great Linux Backbone. So having that networking and LVM, as well as the production support with performance tuning would be a plus for what you might be needing for someone having that linux background.
+ As you probably have, taken a look at my resume, I have a really great Linux Backbone. So having that networking and LVM, as well as the production support with performance tuning would be a plus for what you might be needing for someone having that linux background.
 
 So coming towards monitoring, we are using Splunk for the analytics for the API integration. I have some experience with AppDynamics, nagios and new relic as well.
 
